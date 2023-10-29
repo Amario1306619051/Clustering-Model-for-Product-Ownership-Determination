@@ -1,4 +1,4 @@
-# Customer Segmentation for Product Recommendation
+# Clustering Model for Product Ownership Determination
 
 ## Problem Statement
 The problem at hand is to create an effective strategy for offering the right type of products to potential customers based on their demographics. The objective is to develop a clustering model to understand product ownership patterns based on the demographics of customers who are already using the FundFusion service, with a Silhouette Score greater than 0.7.
